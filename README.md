@@ -4,14 +4,12 @@
 
 ## Overview
 
-The **DANE TLSA Record Checker** is a Python script designed to verify DANE TLSA records for specified web domains. This script ensures that the domain includes `http` or `https` and performs detailed checks for TLSA records, PKIX validation, and IP addresses. The script was created by `Syafiee17x`.
+The **DANE TLSA Record Checker** is a Python script designed to verify DANE TLSA records for specified web domains. This script ensures that the domain includes `http` or `https` and performs detailed checks for TLSA records, PKIX validation, and IP addresses.`.
 
 ## Features
 
 - **Automatic Protocol Inclusion**: Automatically adds `https://` if the user does not specify `http` or `https`.
 - **Detailed Output**: Provides comprehensive details about TLSA records, PKIX validation, and IP addresses.
-- **User-Friendly Interface**: Prompts the user to input domain names and offers the option to run multiple scans.
-- **Professional Formatting**: Outputs results in a visually appealing and professional format.
 
 ## Usage
 
@@ -65,7 +63,3 @@ Do you want to run another scan? (yes/no):
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-Feel free to customize this description further to match your specific needs or preferences! If you need any more help, just let me know.

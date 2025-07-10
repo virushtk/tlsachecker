@@ -21,7 +21,7 @@ The **DANE TLSA Record Checker** is a Python script designed to verify DANE TLSA
 
 2. **Run the Script**:
     ```bash
-    python check_tlsa.py
+    python tlsarecordv3.py
     ```
 
 3. **Follow the Prompts**:

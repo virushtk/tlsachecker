@@ -15,7 +15,7 @@ The **DANE TLSA Record Checker** is a Python script designed to verify DANE TLSA
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/dane-tlsa-record-checker.git
+    git clone https://github.com/virushtk/dane-tlsa-record-checker.git
     cd dane-tlsa-record-checker
     ```
 
